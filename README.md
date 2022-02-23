@@ -26,3 +26,5 @@ Finally, I expolred different recommendation algorithms
 * Collaborative Filtering using users rating data
 * Hybrid: LightFM
 
+## Communication
+All projects methodology and results are presented in the project slides. I am also working on creating a web app to display the recipe recommendation model. 
