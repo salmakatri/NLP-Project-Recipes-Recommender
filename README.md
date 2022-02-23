@@ -5,5 +5,24 @@ Online websites such as Tasty, Recipes.com and Food.com make it very easy for a 
 I will use the Food.com scraped dataset available on Kaggle. The dataset consists of 180K+ recipes and 700K+ user reviews across 18 years of users interactions. The recipes dataset contains recipe name, ingredients, instructions, time and contributor id. The user reviews dataset contains user id, recipe id, rating and text review. 
 ## Tools
 * Pandas for data manipulation
-* Nltk, scipy, sklearn for modeling
+* Nltk, scipy, sklearn, gensim, corex, lightfm for modeling
 * Matplotlib, Seaborn and Tableau for visualization
+## Algorithms and Models
+Started with text preprocessing:
+* Text cleaning
+* Lemmatization
+* Compound Terms
+* Speech tagging
+* Removing stop words
+
+Followed by topic modeling using different algorithms:
+* LSA
+* NMF
+* LDA
+* Corex (with and without anchors)
+
+Finally, I expolred different recommendation algorithms
+* Content-based
+* Collaborative Filtering using users rating data
+* Hybrid: LightFM
+
