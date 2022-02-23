@@ -4,6 +4,6 @@ Online websites such as Tasty, Recipes.com and Food.com make it very easy for a 
 ## Data Description
 I will use the Food.com scraped dataset available on Kaggle. The dataset consists of 180K+ recipes and 700K+ user reviews across 18 years of users interactions. The recipes dataset contains recipe name, ingredients, instructions, time and contributor id. The user reviews dataset contains user id, recipe id, rating and text review. 
 ## Tools
-Pandas for data manipulation
-Nltk, scipy, sklearn for modeling
-Matplotlib, Seaborn and Tableau for visualization
+* Pandas for data manipulation
+* Nltk, scipy, sklearn for modeling
+* Matplotlib, Seaborn and Tableau for visualization
